@@ -5,8 +5,18 @@ repo: upptime # The name of this repository
 sites:
   - name: NFG
     url: https://networkforgamers.com
+  - name: NFG CDS
+    url: https://cds.networkforgamers.com
+  - name: NFG Discord
+    url: https://discord.networkforgamers.com
+  - name: NFG Minecraft
+    url: https://minecraft.networkforgamers.com
+  - name: NFG Rust
+    url: https://rust.networkforgamers.com
   - name: SFU
     url: https://serversforyou.com
+  - name: SFU Discord
+    url: https://discord.serversforyou.com
   - name: SFU Gaming
     url: https://gaming.serversforyou.com
   - name: SFU Web
