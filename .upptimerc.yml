@@ -23,6 +23,10 @@ sites:
     check: "tcp-ping"
     url: mc.networkforgamers.com
     port: 25565
+  - name: NFG MC RPG
+    check: "tcp-ping"
+    url: mc.networkforgamers.com
+    port: 25567
   - name: NFG Rust
     url: https://rust.networkforgamers.com
     expectedStatusCodes:
