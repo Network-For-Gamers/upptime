@@ -55,8 +55,8 @@ status-website:
   theme: dark
   logoUrl: https://avatars.githubusercontent.com/u/74440503?s=400&u=0f5d9aefd0d12b437d633ba23140bdd57e007956&v=4
   name: SFU & NFG
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "NFG & SFU Uptime Monitoring"
+  introMessage: All Services Are Displayed Below and all incident reports are automated and sent to github
   navbar:
     - title: Status
       href: /
