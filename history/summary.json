@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/minecraft.networkforgamers.com.ico",
     "slug": "nfg-minecraft",
     "status": "down",
-    "uptime": "97.48%",
-    "uptimeDay": "97.48%",
-    "uptimeWeek": "97.48%",
-    "uptimeMonth": "97.48%",
-    "uptimeYear": "97.48%",
+    "uptime": "66.48%",
+    "uptimeDay": "66.48%",
+    "uptimeWeek": "66.48%",
+    "uptimeMonth": "66.48%",
+    "uptimeYear": "66.48%",
     "time": 571,
     "timeDay": 571,
     "timeWeek": 571,
     "timeMonth": 571,
     "timeYear": 571,
     "dailyMinutesDown": {
-      "2026-05-09": 6
+      "2026-05-09": 119
     }
   },
   {
@@ -97,18 +97,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rust.networkforgamers.com.ico",
     "slug": "nfg-rust",
     "status": "down",
-    "uptime": "97.57%",
-    "uptimeDay": "97.57%",
-    "uptimeWeek": "97.57%",
-    "uptimeMonth": "97.57%",
-    "uptimeYear": "97.57%",
+    "uptime": "66.55%",
+    "uptimeDay": "66.55%",
+    "uptimeWeek": "66.55%",
+    "uptimeMonth": "66.55%",
+    "uptimeYear": "66.55%",
     "time": 537,
     "timeDay": 537,
     "timeWeek": 537,
     "timeMonth": 537,
     "timeYear": 537,
     "dailyMinutesDown": {
-      "2026-05-09": 6
+      "2026-05-09": 119
     }
   },
   {
