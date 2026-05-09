@@ -19,6 +19,10 @@ sites:
     url: https://minecraft.networkforgamers.com
     expectedStatusCodes:
       - 200
+  - name: NFG MC
+    check: "tcp-ping"
+    url: mc.networkforgamers.com
+    port: 25565
   - name: NFG Rust
     url: https://rust.networkforgamers.com
     expectedStatusCodes:
