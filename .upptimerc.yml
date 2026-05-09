@@ -5,24 +5,44 @@ repo: upptime # The name of this repository
 sites:
   - name: NFG
     url: https://networkforgamers.com
+    expectedStatusCodes:
+      - 200
   - name: NFG CDS
     url: https://cds.networkforgamers.com
+    expectedStatusCodes:
+      - 200
   - name: NFG Discord
     url: https://discord.networkforgamers.com
+    expectedStatusCodes:
+      - 200
   - name: NFG Minecraft
     url: https://minecraft.networkforgamers.com
+    expectedStatusCodes:
+      - 200
   - name: NFG Rust
     url: https://rust.networkforgamers.com
+    expectedStatusCodes:
+      - 200
   - name: SFU
     url: https://serversforyou.com
+    expectedStatusCodes:
+      - 200
   - name: SFU Discord
     url: https://discord.serversforyou.com
+    expectedStatusCodes:
+      - 200
   - name: SFU Gaming
     url: https://gaming.serversforyou.com
+    expectedStatusCodes:
+      - 200
   - name: SFU Web
     url: https://web.serversforyou.com
+    expectedStatusCodes:
+      - 200
   - name: SFU Node 1
     url: https://node1.serversforyou.com
+    expectedStatusCodes:
+      - 200
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
