@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/minecraft.networkforgamers.com.ico",
     "slug": "nfg-minecraft",
     "status": "up",
-    "uptime": "98.31%",
+    "uptime": "98.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.31%",
+    "uptimeYear": "98.32%",
     "time": 1047,
     "timeDay": 946,
     "timeWeek": 1091,
@@ -97,10 +97,10 @@
     "url": "mc.networkforgamers.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nfg-mc-rpg",
-    "status": "up",
+    "status": "down",
     "uptime": "98.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.30%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.29%",
     "uptimeMonth": "97.53%",
     "uptimeYear": "98.69%",
     "time": 138,
@@ -124,7 +124,8 @@
       "2026-08-06": 140,
       "2026-08-07": 60,
       "2026-08-08": 45,
-      "2026-08-14": 71
+      "2026-08-14": 71,
+      "2026-08-16": 0
     }
   },
   {
