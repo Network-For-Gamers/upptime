@@ -23,6 +23,10 @@ sites:
     check: "tcp-ping"
     url: mc.networkforgamers.com
     port: 25565
+  - name: NFG MC Hub
+    check: "tcp-ping"
+    url: mc.networkforgamers.com
+    port: 25566
   - name: NFG MC RPG
     check: "tcp-ping"
     url: mc.networkforgamers.com
