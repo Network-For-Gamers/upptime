@@ -79,10 +79,10 @@
     "url": "mc.networkforgamers.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nfg-mc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 141,
@@ -90,16 +90,18 @@
     "timeWeek": 168,
     "timeMonth": 147,
     "timeYear": 141,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-26": 1
+    }
   },
   {
     "name": "NFG MC RPG",
     "url": "mc.networkforgamers.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nfg-mc-rpg",
-    "status": "up",
+    "status": "down",
     "uptime": "98.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "96.35%",
     "uptimeMonth": "97.60%",
     "uptimeYear": "98.56%",
@@ -129,7 +131,8 @@
       "2026-08-19": 43,
       "2026-08-22": 32,
       "2026-08-23": 33,
-      "2026-08-24": 260
+      "2026-08-24": 260,
+      "2026-08-26": 0
     }
   },
   {
