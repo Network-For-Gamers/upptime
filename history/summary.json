@@ -80,18 +80,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nfg-mc",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.80%",
+    "uptimeDay": "77.85%",
+    "uptimeWeek": "96.84%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.80%",
     "time": 141,
     "timeDay": 177,
     "timeWeek": 168,
     "timeMonth": 147,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2026-08-26": 1
+      "2026-08-26": 319
     }
   },
   {
@@ -99,15 +99,15 @@
     "url": "mc.networkforgamers.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nfg-mc-rpg",
-    "status": "down",
-    "uptime": "98.56%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "96.35%",
-    "uptimeMonth": "97.60%",
-    "uptimeYear": "98.56%",
+    "status": "up",
+    "uptime": "98.36%",
+    "uptimeDay": "77.91%",
+    "uptimeWeek": "93.62%",
+    "uptimeMonth": "97.02%",
+    "uptimeYear": "98.36%",
     "time": 140,
-    "timeDay": 177,
-    "timeWeek": 160,
+    "timeDay": 163,
+    "timeWeek": 162,
     "timeMonth": 145,
     "timeYear": 140,
     "dailyMinutesDown": {
@@ -132,7 +132,7 @@
       "2026-08-22": 32,
       "2026-08-23": 33,
       "2026-08-24": 260,
-      "2026-08-26": 0
+      "2026-08-26": 318
     }
   },
   {
