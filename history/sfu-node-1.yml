@@ -1,7 +1,7 @@
 url: https://node1.serversforyou.com
-status: up
-code: 200
-responseTime: 873
-lastUpdated: 2026-09-03T00:46:33.491Z
+status: down
+code: 502
+responseTime: 606
+lastUpdated: 2026-09-03T04:53:25.606Z
 startTime: 2026-05-05T11:42:04.721Z
 generator: Upptime <https://github.com/upptime/upptime>
