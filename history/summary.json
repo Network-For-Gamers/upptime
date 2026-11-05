@@ -117,14 +117,14 @@
     "url": "mc.networkforgamers.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nfg-mc-rpg",
-    "status": "down",
-    "uptime": "97.78%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.22%",
-    "uptimeYear": "97.78%",
+    "status": "up",
+    "uptime": "97.59%",
+    "uptimeDay": "66.36%",
+    "uptimeWeek": "95.19%",
+    "uptimeMonth": "94.12%",
+    "uptimeYear": "97.59%",
     "time": 142,
-    "timeDay": 160,
+    "timeDay": 150,
     "timeWeek": 140,
     "timeMonth": 144,
     "timeYear": 142,
@@ -160,7 +160,7 @@
       "2026-10-17": 288,
       "2026-10-16": 741,
       "2026-10-18": 240,
-      "2026-11-05": 0
+      "2026-11-05": 484
     }
   },
   {
